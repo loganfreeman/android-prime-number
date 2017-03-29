@@ -93,6 +93,13 @@
             android:text="@string/show_next"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content" />
+
+
+        <Button
+            android:id="@+id/show_result"
+            android:text="@string/show_result"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
     </LinearLayout>
 
 
@@ -116,7 +123,9 @@
             android:id="@+id/left_operand_factors"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:columnCount="4">
+            android:columnCount="4"
+            android:layout_centerHorizontal="true"
+            android:padding="4dp">
 
         </GridLayout>
     </LinearLayout>
@@ -142,7 +151,9 @@
             android:id="@+id/right_operand_factors"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:columnCount="4">
+            android:columnCount="4"
+            android:layout_centerHorizontal="true"
+            android:padding="4dp">
 
         </GridLayout>
     </LinearLayout>
@@ -166,7 +177,9 @@
             android:id="@+id/common_factors"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:columnCount="4">
+            android:columnCount="4"
+            android:layout_centerHorizontal="true"
+            android:padding="4dp">
 
         </GridLayout>
     </LinearLayout>

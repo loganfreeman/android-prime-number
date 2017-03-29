@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">PrimeNumber</string>
+    <string name="app_name">Prime factor</string>
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
@@ -13,4 +13,5 @@
     <string name="prime_factor_right">Prime factors of right operand:</string>
     <string name="prime_factor_common">Common prime factors:</string>
     <string name="show_next">Next</string>
+    <string name="show_result">Show Result</string>
 </resources>
