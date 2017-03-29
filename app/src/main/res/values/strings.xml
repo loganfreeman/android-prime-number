@@ -7,4 +7,10 @@
     <string name="tab1">Math</string>
     <string name="tab2">CHATS</string>
     <string name="tab3">CONTACTS</string>
+    <string name="prime_factor">Prime Factors: </string>
+    <string name="show_prime_factors">Show prime factors</string>
+    <string name="prime_factor_left">Prime factors of left operand:</string>
+    <string name="prime_factor_right">Prime factors of right operand:</string>
+    <string name="prime_factor_common">Common prime factors:</string>
+    <string name="show_next">Next</string>
 </resources>
